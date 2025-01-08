@@ -45,7 +45,7 @@ public class InteractionObjectTaker : MonoBehaviour
         }
     }
 
-    public void TakeObject()
+    public void Interaction()
     {
         if (_tackedInteractionObject == null)
         {
